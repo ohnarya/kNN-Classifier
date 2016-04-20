@@ -3,6 +3,10 @@ k Nearest Neighbor Classifier
 
 * Used [5-fold cross validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) to evaluation performance
 * Report precision, recall, [micro-avaraged F1-measure](https://en.wikipedia.org/wiki/F1_score)
+* Written in ```Python```
+
+## Input
+data_matrix.csv
 
 ## Result 
 ```
