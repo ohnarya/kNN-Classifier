@@ -1,4 +1,4 @@
-## kNN-Classifier
+## kNN-Classifier from scratch
 k Nearest Neighbor Classifier
 
 * Used [5-fold cross validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) to evaluation performance
